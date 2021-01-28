@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zaets Drawable</string>
+    <string name="draw_a_line">Draw a line</string>
+    <string name="load_image">Load image</string>
+</resources>
